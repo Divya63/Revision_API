@@ -1,0 +1,17 @@
+org\testing\testScripts\TC1_PostRequest.class
+org\testing\testScripts\TC8_Get_Particular_RealApi.class
+org\testing\testScripts\TC_1a_Postrequest_Random.class
+org\testing\utilities\JsonParsingUsingorgJson.class
+org\testing\testScripts\TC7_Get_ALL_RealApi.class
+org\testing\utilities\RandomDataGenerate.class
+org\testing\utilities\JsonVariableReplacement.class
+org\testing\utilities\PropertiesRead.class
+org\testing\testScripts\TC5_DeleteRequest.class
+org\testing\testScripts\TC6_Post_RealApi.class
+org\testing\testScripts\TC4_UpdateRecord.class
+org\testing\testSteps\HttpMethods.class
+org\testing\utilities\JsonRead.class
+org\testing\testScripts\TC2_GetAllRequest.class
+org\testing\testScripts\TC10_Delete_RealApi.class
+org\testing\testScripts\TC3_GetParticularRecord.class
+org\testing\testScripts\TC9_Update_RealApi.class

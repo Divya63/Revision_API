@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <!--   
+      <class name="org.testing.testScripts.TC_1a_Postrequest_Random"/>
+      <class name="org.testing.testScripts.TC2_GetAllRequest"/>
+      <class name="org.testing.testScripts.TC3_GetParticularRecord"/>
+      <class name="org.testing.testScripts.TC4_UpdateRecord"/>
+      <class name="org.testing.testScripts.TC5_DeleteRequest"/>
+      -->
+       
+      
+      <class name="org.testing.testScripts.TC6_Post_RealApi"/>
+      <class name="org.testing.testScripts.TC7_Get_ALL_RealApi"/>
+      <class name="org.testing.testScripts.TC8_Get_Particular_RealApi"/>
+      <class name="org.testing.testScripts.TC9_Update_RealApi"/>
+      <class name="org.testing.testScripts.TC10_Delete_RealApi"/>
+     <!--   
+      -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
